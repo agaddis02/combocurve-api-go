@@ -1,4 +1,4 @@
-package auth
+package service_account
 
 import (
 	"encoding/json"

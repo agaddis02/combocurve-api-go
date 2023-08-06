@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# creds
+api-service-account-key.json
+.env
