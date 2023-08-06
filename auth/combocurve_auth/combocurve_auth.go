@@ -3,8 +3,8 @@ package combocurve_auth
 import (
 	"fmt"
 
-	"github.com/Arch-Energy-Partners/combocurve-api-go/auth/service_account"
-	"github.com/Arch-Energy-Partners/combocurve-api-go/auth/token_refresher"
+	"github.com/agaddis02/combocurve-api-go/auth/service_account"
+	"github.com/agaddis02/combocurve-api-go/auth/token_refresher"
 )
 
 const DefaultAudience = "https://api.combocurve.com"

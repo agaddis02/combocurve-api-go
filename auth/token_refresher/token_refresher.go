@@ -1,8 +1,8 @@
 package token_refresher
 
 import (
-	"github.com/Arch-Energy-Partners/combocurve-api-go/auth/jwt_handler"
-	"github.com/Arch-Energy-Partners/combocurve-api-go/auth/service_account"
+	"github.com/agaddis02/combocurve-api-go/auth/jwt_handler"
+	"github.com/agaddis02/combocurve-api-go/auth/service_account"
 )
 
 type TokenRefresher struct {

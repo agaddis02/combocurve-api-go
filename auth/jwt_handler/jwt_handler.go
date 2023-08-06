@@ -10,7 +10,7 @@ import (
 
 	"github.com/golang-jwt/jwt/v5"
 
-	"github.com/Arch-Energy-Partners/combocurve-api-go/auth/service_account"
+	"github.com/agaddis02/combocurve-api-go/auth/service_account"
 )
 
 const (
