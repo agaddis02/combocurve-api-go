@@ -9,6 +9,7 @@ these are the main imports needed to complete authorization, and pagination with
 "github.com/agaddis02/combocurve-api-go/auth/combocurve_auth" 
 "github.com/agaddis02/combocurve-api-go/auth/service_account"
 "github.com/agaddis02/combocurve-api-go/pagination"
+"github.com/agaddis02/combocurve-api-go/models"
 ```
 
 
